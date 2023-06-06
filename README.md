@@ -79,7 +79,7 @@ By default a statement is added to the messages: Sign-in to Discourse via Ethere
 # Configuring Tipping ability
 
 ## Adding a Network Chain ID
-For the tipping functionality to work, this is a crucial point in configuration. Choose a Blockchain Network you would like to your users to be locked to such as Avalanche, Ethereum, BSC etc.
+For the tipping functionality to work, this is a crucial point in configuration. Choose a Blockchain Network you would like your users to be locked to such as Avalanche, Ethereum, BSC etc.
 ![Adding a Network Chain ID](https://github.com/waqaarali/discourse-6dc-tipper/assets/109590536/5bad2a54-d5ee-4cc2-8d5d-a7a9701a5a49, "Adding a Network Chain ID")
 
 ## Adding ERC-20 Contract
